@@ -1,0 +1,5 @@
+link:https://www.youtube.com/watch?v=BnMnozsSPmw
+detalii: explica foarte bine ce sunt clasele
+
+link-probleme:https://www.pbinfo.ro/probleme/3529/oop-1
+	      https://www.pbinfo.ro/probleme/3530/oop-2
