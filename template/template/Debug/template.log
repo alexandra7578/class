@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\work\template\template\Source.cpp(42,36): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  template.vcxproj -> C:\Users\User\Desktop\work\template\Debug\template.exe
