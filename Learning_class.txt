@@ -1,13 +1,26 @@
-link:https://www.youtube.com/watch?v=BnMnozsSPmw
+carte despre oop:
+	https://archive.org/details/deaconu-adrian-programare-orientata-pe-obiecte.-limbajul-c-retail/page/16/mode/2up
+link:
+	https://www.youtube.com/watch?v=BnMnozsSPmw
 detalii: explica foarte bine ce sunt clasele
 
-link-probleme:https://www.pbinfo.ro/probleme/3529/oop-1
-	      https://www.pbinfo.ro/probleme/3530/oop-2
+link-probleme:
+	https://www.pbinfo.ro/probleme/3529/oop-1
+	https://www.pbinfo.ro/probleme/3530/oop-2
 
-link-pointers:https://www.youtube.com/watch?v=kiUGf_Z08RQ
-link- clase virtuale/pur virtuale: https://www.youtube.com/watch?v=T8f4ajtFU9g
-link- clase template: https://www.youtube.com/watch?v=qrJjFN4Igfw
-link:https://www.w3schools.com/cpp/cpp_classes.asp
-detalii: sunt explicate classele + exercitii
+link-pointers:
+	https://www.youtube.com/watch?v=kiUGf_Z08RQ
+link- clase virtuale/pur virtuale: 
+	https://www.youtube.com/watch?v=T8f4ajtFU9g
+	https://virtualsclasses.com/what-are-virtual-classes-in-c/
+link-clase abstracte:
+	https://en.cppreference.com/w/cpp/language/abstract_class
+link- clase template: 
+	https://www.youtube.com/watch?v=qrJjFN4Igfw
+link:
+	https://www.w3schools.com/cpp/cpp_classes.asp
+	detalii: sunt explicate classele + exercitii
+link-probleme oop:
+	https://www.codezclub.com/cpp-solved-programs-problems-solutions/c-classes-objects-solved-programs-solutions/
 
 
