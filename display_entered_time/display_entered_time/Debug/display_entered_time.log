@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\work\display_entered_time\display_entered_time\Source.cpp(21,10): error C2146: syntax error: missing ';' before identifier 't'
+C:\Users\User\Desktop\work\display_entered_time\display_entered_time\Source.cpp(21,5): warning C4551: function call missing argument list
+C:\Users\User\Desktop\work\display_entered_time\display_entered_time\Source.cpp(21,10): error C2065: 't': undeclared identifier
+C:\Users\User\Desktop\work\display_entered_time\display_entered_time\Source.cpp(29,5): error C2065: 't': undeclared identifier
+C:\Users\User\Desktop\work\display_entered_time\display_entered_time\Source.cpp(30,5): error C2065: 't': undeclared identifier
