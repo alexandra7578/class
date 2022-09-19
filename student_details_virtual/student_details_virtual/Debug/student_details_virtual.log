@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\work\student_details_virtual\student_details_virtual\Source.cpp(64,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\work\student_details_virtual\student_details_virtual\Source.cpp(65,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  student_details_virtual.vcxproj -> C:\Users\User\Desktop\work\student_details_virtual\Debug\student_details_virtual.exe
